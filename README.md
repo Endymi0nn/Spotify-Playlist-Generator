@@ -5,8 +5,8 @@
 <h3>Note : Everything is Done on Google Colab </h3>
 <h5>Inference notebook link : https://bit.ly/spotifyplaylistgen </h5>
 ---------------------------------------------------------------------------------------------------------------------------------
-Info : This is a fined-tuned GPT-Neo model taken from huggingface-transformers library. It is trained to generate a playlist from a few given songs.
 
+Info : This is a fined-tuned GPT-Neo model taken from huggingface-transformers library. It is trained to generate a playlist from a few given songs.
 
 Libararies : transformers, aitextgen, torch 
  
