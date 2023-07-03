@@ -16,11 +16,8 @@ Dataset used : https://www.kaggle.com/datasets/siropo/spotify-multigenre-playlis
 
               1) Download the inference notebook and run on google colab.
               2) OR just use the notebook through this link : https://bit.ly/spotifyplaylistgen
-                       
-                       
-                       
 Other info : 
 
              1)  'Showcase.jpg' contains a demonstration of the model's capabilities. 
              2)   Feel free to download the files and test the program manually in your system.
-             3)   Feel free to use different parameters in the inference notebook
+             3)   Only works on english songs as of now.
